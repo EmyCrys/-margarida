@@ -24,4 +24,5 @@ p{
 h2{
     color: red(122, 23, 31);
     font-size: 60px;
+    text-align: center;
 }
