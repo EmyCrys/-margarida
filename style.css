@@ -19,6 +19,7 @@ p{
     display: block ;
     margin: auto;
     float: right;
+    hspace= 5;
 }
 
 h2{
