@@ -19,9 +19,8 @@ p{
     display: block ;
     margin: auto;
     float: right;
+}
 h2{
-    color:brown;
-    font-size: 60px;
-
-
+    color: brown;
+    font-size: 50px;
 }
