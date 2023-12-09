@@ -19,8 +19,12 @@ p{
     display: block ;
     margin: auto;
     float: right;
+   
 }
 h2{
     color: red(122, 23, 31);
     font-size: 50px;
+}
+img{
+    float: left;
 }
