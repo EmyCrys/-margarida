@@ -18,6 +18,7 @@ p{
     width: 50%;
     display: block ;
     margin: auto;
+    float: right;
 h2{
     color: chocolate;
     font-size: 50px;
